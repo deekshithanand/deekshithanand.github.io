@@ -67,7 +67,7 @@ function App() {
                 <li>C++</li>
                 <li>C</li>
                 <li>Java</li>
-                <li>TypeScript</li>
+                <li>JavaScript</li>
               </ul>
               <h4>Framework and Tools:</h4>
               <ul>
