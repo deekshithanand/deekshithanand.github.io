@@ -17,6 +17,9 @@ var AboutMe =() =>{
 
 
             </p>
+            <h4>
+              I love devoloping things and desperate for a DEV-ROLE!!!
+            </h4>
           </section>
     )
 }
