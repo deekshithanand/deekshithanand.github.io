@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ab5e4da.chunk.css",
-    "main.js": "/static/js/main.560f4d5e.chunk.js",
-    "main.js.map": "/static/js/main.560f4d5e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6eae0b3b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6eae0b3b.js.map",
-    "static/css/2.67123b20.chunk.css": "/static/css/2.67123b20.chunk.css",
-    "static/js/2.eb0d0b22.chunk.js": "/static/js/2.eb0d0b22.chunk.js",
-    "static/js/2.eb0d0b22.chunk.js.map": "/static/js/2.eb0d0b22.chunk.js.map",
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.125de2e5.chunk.js",
+    "main.js.map": "/static/js/main.125de2e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e6bb54da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e6bb54da.js.map",
+    "static/css/2.7b05d20c.chunk.css": "/static/css/2.7b05d20c.chunk.css",
+    "static/js/2.ce1f129d.chunk.js": "/static/js/2.ce1f129d.chunk.js",
+    "static/js/2.ce1f129d.chunk.js.map": "/static/js/2.ce1f129d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2f3fc8cda8cf22fec961d9eed1dc2a10.js": "/precache-manifest.2f3fc8cda8cf22fec961d9eed1dc2a10.js",
+    "precache-manifest.b1432dfa9404b09885a790480bb70084.js": "/precache-manifest.b1432dfa9404b09885a790480bb70084.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.67123b20.chunk.css.map": "/static/css/2.67123b20.chunk.css.map",
-    "static/css/main.2ab5e4da.chunk.css.map": "/static/css/main.2ab5e4da.chunk.css.map",
-    "static/js/2.eb0d0b22.chunk.js.LICENSE.txt": "/static/js/2.eb0d0b22.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/cover.ebaa1aa6.jpeg"
+    "static/css/2.7b05d20c.chunk.css.map": "/static/css/2.7b05d20c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ce1f129d.chunk.js.LICENSE.txt": "/static/js/2.ce1f129d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/quicksand-latin-700.e84fd014.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.6eae0b3b.js",
-    "static/css/2.67123b20.chunk.css",
-    "static/js/2.eb0d0b22.chunk.js",
-    "static/css/main.2ab5e4da.chunk.css",
-    "static/js/main.560f4d5e.chunk.js"
+    "static/js/runtime-main.e6bb54da.js",
+    "static/css/2.7b05d20c.chunk.css",
+    "static/js/2.ce1f129d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.125de2e5.chunk.js"
   ]
 }
