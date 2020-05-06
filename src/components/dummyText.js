@@ -1,0 +1,29 @@
+import React from 'react'
+
+export default function DummyText(){
+    return(
+
+        <h1>
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut elementum justo, finibus consequat dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec gravida nunc est, iaculis auctor lorem fringilla ac. Ut placerat diam felis, ac laoreet purus lacinia sollicitudin. Nam semper nunc nisi, at aliquam nulla pharetra id. Duis ultricies enim in mi vulputate, ac pellentesque lorem dictum. Cras porttitor, tellus ac sollicitudin mattis, turpis lorem hendrerit urna, at elementum nibh nulla a ante. Duis a aliquam mi, eget blandit lorem. Nunc eu efficitur massa.
+
+Mauris scelerisque aliquam auctor. Morbi a metus neque. Proin quis mi diam. Praesent lacus purus, molestie eu ultrices scelerisque, convallis vitae dolor. Morbi sollicitudin tortor quis justo interdum, non auctor sem tempor. Proin tincidunt metus a iaculis auctor. Mauris placerat leo sed diam accumsan auctor. Vivamus vestibulum tempor mauris, ac sagittis urna laoreet vel. Proin ornare ipsum at turpis egestas, id tristique ex tempus. Fusce rutrum lobortis tincidunt. Donec eget gravida ex. Donec tristique venenatis venenatis.
+
+Nulla non est eget ipsum convallis blandit. Aenean eleifend ultricies tellus id facilisis. Sed augue justo, tempus eu ante sed, ultrices pretium neque. Duis ac eros ut nunc maximus tincidunt. Curabitur luctus, ante nec accumsan rutrum, turpis nunc condimentum sapien, sed auctor nunc leo quis mi. Proin fringilla ornare dolor, sit amet tempor lectus. Pellentesque ultricies vitae orci sed sodales. Mauris in molestie mi. Proin ullamcorper eros eu est sagittis, non maximus nisi consequat. Suspendisse mollis tortor eu ultricies auctor. In hac habitasse platea dictumst. Morbi id pretium purus.
+
+Sed molestie risus arcu, eget pharetra enim consectetur id. Quisque ipsum turpis, mattis eget mauris vitae, lacinia tempor est. Proin pulvinar consequat tortor non dictum. Nunc vel dui elit. Quisque interdum urna arcu, eu volutpat ligula imperdiet non. Nunc aliquet, leo vel ornare interdum, ipsum velit posuere nunc, eu egestas nisi mauris sed sapien. Suspendisse faucibus tempor libero in placerat. Mauris vehicula vel est vitae interdum. Sed et faucibus tortor, in interdum ligula. Nullam id ligula urna. In ullamcorper leo vel purus ornare vehicula. Etiam id nunc sed nisi laoreet facilisis. Aliquam at ligula sapien. Duis ac cursus justo, nec pretium mi. Integer convallis risus eget ultrices auctor. Vestibulum ligula libero, molestie vel venenatis vel, ornare at diam.
+
+Duis eget metus eget odio vulputate fringilla. Suspendisse quis blandit tortor, et lacinia ex. Phasellus consectetur maximus tristique. Nullam vehicula tortor libero, ac vulputate erat congue id. Aenean facilisis consequat lorem, non eleifend felis eleifend vitae. In ut varius dolor, eu sagittis justo. Suspendisse id diam nibh. Sed lobortis dolor nec lorem egestas, in rutrum eros ullamcorper. Nulla ut ligula id lorem sagittis facilisis. Fusce tortor tellus, facilisis vel ante ut, convallis fringilla ante.
+
+Sed eu mauris facilisis, sodales velit eget, aliquam purus. Nulla quis diam blandit, fringilla arcu vel, varius arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam eget orci mi. Ut ac arcu diam. Curabitur pretium elementum efficitur. Nulla facilisi. Ut id blandit dolor. Quisque vel bibendum ligula, id mollis quam. Proin nec malesuada est, non iaculis sapien. Sed risus magna, dictum eu nibh ac, sollicitudin rutrum tellus. Mauris semper dolor nisl, id commodo erat congue vitae. Duis porttitor ligula non lacus semper finibus.
+
+Ut sed lacus non tortor volutpat ornare vitae et purus. Nulla sit amet euismod velit, id accumsan nisi. Pellentesque dignissim tellus vel aliquet finibus. Nullam eget nibh eu lectus vestibulum iaculis faucibus a enim. Aenean vel lorem quis magna tincidunt posuere non id nibh. Proin magna turpis, posuere non lacus vitae, tempor aliquet quam. Duis at sollicitudin tortor. Phasellus risus justo, dictum a tellus id, pharetra dapibus justo. Proin interdum semper metus vitae malesuada. Duis vitae nisi sit amet sapien accumsan pretium vel vitae metus. Nam pulvinar viverra odio nec porta.
+
+Vivamus ut dui diam. Nunc condimentum interdum sapien sit amet aliquam. Quisque congue ex ut odio sollicitudin rutrum. Vestibulum in augue eget diam ultrices aliquet finibus non nisi. Cras ultrices mi ante, sed rhoncus mauris laoreet in. Nam et efficitur magna. In elementum justo non efficitur pulvinar. Aliquam sed ex nulla. Aliquam placerat tortor sit amet lectus commodo venenatis. Aliquam at ante a tortor viverra finibus. Suspendisse lacus quam, gravida et volutpat at, finibus et nunc. Donec fringilla non tellus vel fringilla. Cras ultricies dui sed arcu sodales auctor.
+
+Praesent vel arcu sagittis, posuere nisl sed, pellentesque nulla. Maecenas auctor pellentesque leo, ac laoreet risus fringilla a. Integer nulla urna, tincidunt vel commodo sed, commodo sit amet mauris. Integer blandit mi vel nulla tincidunt tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin mauris ipsum, hendrerit id gravida a, consectetur id nisl. Mauris aliquam nulla eu metus vulputate dignissim. Donec ac tempus lectus. Morbi pretium quis augue at elementum. Sed sit amet velit quam. Donec faucibus rhoncus ultrices. Integer at luctus velit, et vulputate mi.
+
+Quisque dignissim ligula sem. Mauris luctus dolor nec elit varius luctus. Nulla facilisi. Aliquam semper massa mi, non tincidunt massa molestie non. Proin rutrum suscipit felis sit amet blandit. Aliquam erat volutpat. Nullam tempor tempor nunc id finibus.
+        </h1>
+    )
+
+}

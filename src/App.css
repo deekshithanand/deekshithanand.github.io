@@ -1,12 +1,29 @@
-.er{
-  color:rgb(221, 217, 217);
-  
-  
+.App {
+  text-align: center;
 }
 
-.jumbotron{
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
 
-  background-image: url('assets/im2.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
- }
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
