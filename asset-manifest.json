@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fc973a9.chunk.css",
-    "main.js": "/static/js/main.b68c27b2.chunk.js",
-    "main.js.map": "/static/js/main.b68c27b2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.af599d5c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.af599d5c.js.map",
-    "static/css/2.7b05d20c.chunk.css": "/static/css/2.7b05d20c.chunk.css",
-    "static/js/2.5675f74f.chunk.js": "/static/js/2.5675f74f.chunk.js",
-    "static/js/2.5675f74f.chunk.js.map": "/static/js/2.5675f74f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ec1a3465808c5ddff97ea3b9804b4744.js": "/precache-manifest.ec1a3465808c5ddff97ea3b9804b4744.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.7b05d20c.chunk.css.map": "/static/css/2.7b05d20c.chunk.css.map",
-    "static/css/main.1fc973a9.chunk.css.map": "/static/css/main.1fc973a9.chunk.css.map",
-    "static/js/2.5675f74f.chunk.js.LICENSE.txt": "/static/js/2.5675f74f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/quicksand-latin-700.e84fd014.woff2"
+    "main.css": "./static/css/main.1fc973a9.chunk.css",
+    "main.js": "./static/js/main.0bd23aab.chunk.js",
+    "main.js.map": "./static/js/main.0bd23aab.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2905d141.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2905d141.js.map",
+    "static/css/2.ae66b23a.chunk.css": "./static/css/2.ae66b23a.chunk.css",
+    "static/js/2.5675f74f.chunk.js": "./static/js/2.5675f74f.chunk.js",
+    "static/js/2.5675f74f.chunk.js.map": "./static/js/2.5675f74f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.876bd9a3804f36b3369f3acce3cd8365.js": "./precache-manifest.876bd9a3804f36b3369f3acce3cd8365.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.ae66b23a.chunk.css.map": "./static/css/2.ae66b23a.chunk.css.map",
+    "static/css/main.1fc973a9.chunk.css.map": "./static/css/main.1fc973a9.chunk.css.map",
+    "static/js/2.5675f74f.chunk.js.LICENSE.txt": "./static/js/2.5675f74f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/quicksand-latin-700.e84fd014.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.af599d5c.js",
-    "static/css/2.7b05d20c.chunk.css",
+    "static/js/runtime-main.2905d141.js",
+    "static/css/2.ae66b23a.chunk.css",
     "static/js/2.5675f74f.chunk.js",
     "static/css/main.1fc973a9.chunk.css",
-    "static/js/main.b68c27b2.chunk.js"
+    "static/js/main.0bd23aab.chunk.js"
   ]
 }
